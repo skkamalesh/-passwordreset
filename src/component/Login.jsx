@@ -97,8 +97,8 @@ const Login = () => {
 };
 
 const Wrapper = styled.div`
-  width: 350px;
-  height: 250px;
+  width: 400px;
+  height: 300px;
   background-color: #ffffff4f;
   padding: 20px;
   border-radius: 15px;

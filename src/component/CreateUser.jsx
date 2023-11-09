@@ -147,7 +147,7 @@ export default CreateUser;
 const Wrapper = styled.div`
   width: 450px;
   height: 450px;
-  background-color: #ff4d25;
+  background-color: #0000FF;
   padding: 20px;
   border-radius: 15px;
 `;
